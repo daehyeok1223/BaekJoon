@@ -34,5 +34,6 @@ int main() {
         cout << points[i].x << " " << points[i].y << '\n'; // endl 대신에 '\n' 사용
     }
 
+
     return 0;
 }
